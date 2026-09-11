@@ -2,7 +2,7 @@
 
 I'm a **Data Scientist & Machine Learning Engineer** who loves bridging the gap between hardware systems and intelligent algorithms 🚗🤖. 
 
-After completing my Master's in Germany (where I worked on cool stuff at **Bosch** and **DFKI**), I'm now based back in India, building end-to-end ML pipelines and deep learning tools.
+After completing my Master's in Germany (where I worked on cool stuff at **Bosch**(Intership) and **DFKI**), I'm now based back in India, building end-to-end ML pipelines and deep learning tools.
 
 ---
 
