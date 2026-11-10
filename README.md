@@ -8,9 +8,9 @@ After completing my Master's in Germany (where I worked on cool stuff at **Bosch
 
 ### 💡 What I'm Up To
 * 🔭 **Currently Building:** Production MLOps pipelines and exploring generative AI & RAG workflows.
-* 🧠 **Research Background:** Computer Vision for robotic grasping (DFKI) and predictive health monitoring for vehicles using time-series AI (Bosch).
-* 📝 **Writing:** I break down the math behind Machine Learning (vector calculus, linear algebra, sampling) on my personal blog.
-* 🌱 **Always Learning:** Constantly sharpening my skills in cloud deployment, SQL, and system design.
+* 🧠 **Research Background:** Computer Vision for robotic grasping (DFKI) and predictive health monitoring for vehicles using time-series analysis (Bosch).
+* 📝 **Writing:** I break down the math behind Machine Learning (vector calculus, linear algebra, sampling) in my [personal blog](https://jayadeep19.github.io/til-notes/).
+* 🌱 **Always Learning:** Currently sharpening my skills in cloud deployment, AI engineering, and system design.
 
 ---
 
